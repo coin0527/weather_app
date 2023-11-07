@@ -95,7 +95,7 @@ export const Home = () => {
           <Location> {data?.name} </Location>
           <Temp> {Math.round(data?.main?.temp)}° </Temp>
           {/* math.round => 반올림 */}
-          <Desc> {data?.weather[0]?.discription} </Desc>
+          <Desc> {data?.weather[0]?.description} </Desc>
 
           <Separ></Separ>
           <ConWrap>

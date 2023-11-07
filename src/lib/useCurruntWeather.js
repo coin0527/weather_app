@@ -14,7 +14,7 @@ export const useCurruntWeather = () => {
     const {
       coords: { latitude, longitude },
     } = pos;
-    console.log(latitude, longitude);
+    //console.log(latitude, longitude);
     setLat(latitude);
     setLon(longitude);
   };
