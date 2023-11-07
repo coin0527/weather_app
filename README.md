@@ -9,7 +9,10 @@
 
 ## 1106 TODO
 
-- [] axios, useQuery
-- [] UI, helmet 설정
-- [] 현재 위치 얻어오기
+- [x] axios, useQuery
+- [x] UI, helmet 설정
+
+## 1107 TODO
+
+- [x] 현재 위치 얻어오기
 - [] 배포
