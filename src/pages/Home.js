@@ -7,7 +7,7 @@ import { Loading } from "../components/Loading";
 const Wrap = styled.div`
   max-width: 400px;
   width: 100%;
-  height: 100vh;
+  height: 60vh;
   margin: 0 auto;
   background: linear-gradient(
     0deg,
